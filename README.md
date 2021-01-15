@@ -1,5 +1,6 @@
 
- - [My CV](https://feel-the-dz3n.github.io/incamp19/cv/index.html) (initially made for educational purposes at InterLink inCamp s19)
+<!--- [My CV](https://feel-the-dz3n.github.io/incamp19/cv/index.html) (initially made for educational purposes at InterLink inCamp s19)!-->
+<!-- add chrono here !-->
 
 <!-- bruh !-->
 <br><br><br><br>
